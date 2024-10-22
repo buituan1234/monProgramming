@@ -1,0 +1,7 @@
+D:\asm\mon programming thu3 co loan\monProgramming\monProgramming\bin\Debug\monProgramming.exe.config
+D:\asm\mon programming thu3 co loan\monProgramming\monProgramming\bin\Debug\monProgramming.exe
+D:\asm\mon programming thu3 co loan\monProgramming\monProgramming\bin\Debug\monProgramming.pdb
+D:\asm\mon programming thu3 co loan\monProgramming\monProgramming\obj\Debug\monProgramming.csproj.AssemblyReference.cache
+D:\asm\mon programming thu3 co loan\monProgramming\monProgramming\obj\Debug\monProgramming.csproj.CoreCompileInputs.cache
+D:\asm\mon programming thu3 co loan\monProgramming\monProgramming\obj\Debug\monProgramming.exe
+D:\asm\mon programming thu3 co loan\monProgramming\monProgramming\obj\Debug\monProgramming.pdb
